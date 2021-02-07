@@ -18,7 +18,6 @@ function App() {
           Chatbot-review01
         </a>
       </header>
-      
     </div>
   );
 }
